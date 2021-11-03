@@ -1,0 +1,53 @@
+= HD map spatial error
+
+:doctype: book
+:toc: macro
+:toclevels: 3
+:xrefstyle: short
+
+:Author: Michal Rosikiewicz
+:revision: 0.1
+:documentid: <ID>
+:date: 03-Nov-2021
+
+Author: {author} +
+Version: {revision} +
+Date: {date}
+
+:!sectnums:
+
+[[fm-revision-history]]
+== Revision history
+
+[cols="^15,^20,75",options="header"]
+|====
+| *Version* | *Date*       | *Changes*
+| 0.1       | 04-Feb-2019  | Initial version
+|====
+
+[[fm-terms-and-abbreviations]]
+== Terms and abbreviations
+[cols="25,75",options="header"]
+|====
+| *Term / abbreviation* | *Description*
+| AD                    | Automated Driving.
+|====
+
+[[fm-references]]
+[bibliography]
+== References
+
+- [[[1]]]  _Sample reference_, TomTom N.V.
+
+
+:sectnums:
+
+== Introduction
+
+
+== Error theory
+Error theory goes here!
+
+== Map creation process
+The paragraph describesw map creation process.
+
